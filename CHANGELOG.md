@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.3] (March 4, 2026)
+
+**Updated:**
+
+- .gitignore
+
 ## [0.0.2] (December 27, 2025)
 
 ### Added:
